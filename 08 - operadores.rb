@@ -93,5 +93,5 @@ puts "^ - #{y ^ z}" # 0
 # '<<' - Shift Left, Anda para esquerda a quantidade de bit informado
 puts "<<  #{y << 2}" # 40
 
-# '>>' - Shift rigth, Anda para esquerda a quantidade de bit informado
+# '>>' - Shift rigth, Anda para direita a quantidade de bit informado
 puts "<<  #{y >> 2}" # 2
