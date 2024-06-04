@@ -27,3 +27,15 @@ end
 # Operador ternário
 # (condição) ? Condição verdadeira : condição falsa
 puts x == 5 ? "Condição verdadeira" : "Condição falsa"
+
+# Case
+cor = "preto"
+
+case cor
+    when "branco"
+        puts "branco"
+    when "preto"
+        puts "Preto"
+    else
+        puts "Cor não encontrada"
+end
