@@ -29,3 +29,9 @@ semanas = Array["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado", "Do
 # last - acessa o último elemento.
 # index(valor) - retorna o valor do indice pelo valor
 # slice(range) - retorna um array na faixa de valor.
+# uniq - Remove elementos duplicados no array
+# push - Adiciona um elemento ao final do array
+# pop - retorna e retira o ultimo elemento do array
+# eql? - Compara dois arrays.
+# sort - Ordena array em ordem crescente
+# reverse - ordena array de forma decrescente
