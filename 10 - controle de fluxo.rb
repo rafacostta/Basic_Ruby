@@ -39,3 +39,11 @@ case cor
     else
         puts "Cor não encontrada"
 end
+
+# unless - Espera uma condição falsa
+nota = 10
+unless nota < 10 # condição falsa
+    puts "Reprovado"
+else
+    puts "Aprovado"
+end
